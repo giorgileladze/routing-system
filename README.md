@@ -27,4 +27,4 @@ to use routing system:
                       request_method: GET
 ```
 
-- Step Four: Everything in the curly braces {} of the URI is considered a dynamic part of the URI.
+- Step Four: Everything in the curly braces {} of the URI is considered as a dynamic part of the URI.
