@@ -28,3 +28,5 @@ to use routing system:
 ```
 
 - Step Four: Everything in the curly braces {} of the URI is considered as a dynamic part of the URI.
+
+URL will be calculated based on base_uri and uri: `module.base_uri + module.services.uri` for example: **/user/create**, **/user/delete/<user id>**
